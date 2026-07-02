@@ -33,4 +33,4 @@ ForEach ($thing in $things) {
 
 #### here is an image
 
-![alt text](https://nilomat.github.io/NI_CPUE2G/cpue2g/docs.html)
+![alt text](https://nilomat.github.io/NI_CPUE2G/cpue2g/NI_CPUE2G%20datasheet.pdf)
