@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Here you can read information about my projects.
 
-Maybe say a some things about yourself.
+you can maybe eavan find small sub projects.
 
-Or maybe what you plan to blog about.
+
